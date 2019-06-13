@@ -12,8 +12,8 @@
 ## Issues 
 * [Cloud Run ](https://github.com/bigdatasg/csj-cloudrun/issues)
 * [Istio](https://github.com/bigdatasg/csj-istio/issues)
-* [AIML]()
+* [AIML](https://github.com/bigdatasg/csj-aiml/issues)
 ## Wiki 
 * [Istio](https://github.com/bigdatasg/csj-istio/wiki)
 * [Cloud Run ](https://github.com/bigdatasg/csj-cloudrun/wiki)
-* [AIML]()
+* [AIML](https://github.com/bigdatasg/csj-aiml/wiki)
