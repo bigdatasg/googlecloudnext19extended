@@ -6,5 +6,14 @@
 
 ## Google Cloud Next'19 Extended Workshops
 
-* [Istio on GKE](https://github.com/bigdatasg/csj-istio)
+* [Istio](https://github.com/bigdatasg/csj-istio)
 * [Cloud Run ](https://github.com/bigdatasg/csj-cloudrun) 
+* [AIML]()
+## Issues 
+* [Cloud Run ](https://github.com/bigdatasg/csj-cloudrun/issues)
+* [Istio](https://github.com/bigdatasg/csj-istio/issues)
+* [AIML]()
+## Wiki 
+* [Istio](https://github.com/bigdatasg/csj-istio/wiki)
+* [Cloud Run ](https://github.com/bigdatasg/csj-cloudrun/wiki)
+* [AIML]()
