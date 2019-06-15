@@ -4,7 +4,7 @@
 ## Next'19 Extended Schedule
 [Schedule](https://docs.google.com/spreadsheets/d/1YLdXnMiPVNYY4F1qdBpZMcQm8ZMm0pUxEmcQjLtvP3U/edit?usp=sharing)
 
-
+Main Slides: https://tinyurl.com/cloudnext19-extended-slides
 
 
 ## Google Cloud Next'19 Extended Workshops
