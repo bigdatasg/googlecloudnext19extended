@@ -6,6 +6,9 @@
 
 Main Slides: https://tinyurl.com/cloudnext19-extended-slides
 
+## GDE speaker slides
+* [Cloud Function](https://docs.google.com/presentation/d/10j2ZGQQ1bYNL_e0EreFu_GLoecrqII-8z0zYCkZeLik/edit?usp=drivesdk)
+
 
 ## Google Cloud Next'19 Extended Workshops
 
