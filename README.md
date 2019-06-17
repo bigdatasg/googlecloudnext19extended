@@ -7,8 +7,8 @@
 Main Slides: https://tinyurl.com/cloudnext19-extended-slides
 
 ## GDE speaker slides
-* [Cloud Function](https://docs.google.com/presentation/d/10j2ZGQQ1bYNL_e0EreFu_GLoecrqII-8z0zYCkZeLik/edit?usp=drivesdk)
-
+* Jirawat -  [Cloud Function](https://docs.google.com/presentation/d/10j2ZGQQ1bYNL_e0EreFu_GLoecrqII-8z0zYCkZeLik/edit?usp=drivesdk)
+* Ralph - [Natural Languauge API](https://docs.google.com/presentation/d/e/2PACX-1vTFY7ARVXSEg3mPMwUE6PoM65AOLTLErdmqclNhg7BkrTaWt7mu4zvBdyIFwZVyzFcbjQrsDu1BlEUx/pub?start=true&loop=false&delayms=15000) 
 
 ## Google Cloud Next'19 Extended Workshops
 
